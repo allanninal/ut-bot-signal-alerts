@@ -1,0 +1,3 @@
+ut_default	InpKey=1.0,InpATR=10,InpHeikin=false,InpUseEMA=false,InpEMA=200
+ut_k2_a14_ema	InpKey=2.0,InpATR=14,InpHeikin=false,InpUseEMA=true,InpEMA=200
+ut_k1_a10_ha	InpKey=1.0,InpATR=10,InpHeikin=true,InpUseEMA=false,InpEMA=200
